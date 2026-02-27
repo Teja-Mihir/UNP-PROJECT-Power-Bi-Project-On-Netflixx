@@ -4,3 +4,6 @@ This Power BI project analyzes Netflix subscription data to track revenue, subsc
 
 Here is the Project Link:
 https://drive.google.com/file/d/14tWoMUdm9vlela2br2ZZKWT_OKKMTUvd/view?usp=sharing
+
+Here is the PDF Link:
+https://drive.google.com/file/d/1znlfR_fH3lKcma44Cf-AYtr0R80nJe_M/view?usp=sharing
